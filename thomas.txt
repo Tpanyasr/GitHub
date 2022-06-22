@@ -1,1 +1,3 @@
-hello my name is thomas and i'm learning to use git
+hello my name is Thomas and i'm learning to use git
+Adding a new line
+
